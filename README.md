@@ -1,24 +1,7 @@
-<div align="center">
-  <a href="https://github.com/monstrikwho?tab=repositories&sort=stargazers">    
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/monstrikwho"/>
-  </a>  
-  <a href="https://github.com/monstrikwho?tab=repositories&sort=stargazers">    
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/monstrikwho"/>
-  </a>  
-  <a href="https://github.com/monstrikwho">    
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/monstrikwho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</div>
 <h1 align="left">
   Hi 👋, I'm Alexandr
 </h1>
 <h3 align="left">A passionate frontend developer from Belarus</h3>
-
-<h3 align="left">Connect with me</h3>
-<div align="left">
-  <img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  <img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
 
 <h3 align="left">💻 Tech Stack</h3>
 <div align="left">
