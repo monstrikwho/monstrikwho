@@ -1,6 +1,4 @@
-<h1 align="left">
-  Hi 👋, I'm Alexandr
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alexandr)](https://git.io/typing-svg)
 <h3 align="left">A passionate frontend developer from Belarus</h3>
 
 <h3 align="left">💻 Tech Stack</h3>
