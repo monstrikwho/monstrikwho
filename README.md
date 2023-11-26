@@ -16,6 +16,7 @@
   <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />
   <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />
   <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />
 </div>
 
 <h3 align="left">Tools</h3>
@@ -40,4 +41,4 @@
     </td>  
   </tr>
 </table>
-
+<img src="https://komarev.com/ghpvc/?username=monstrikwho&label=views&color=grey&style=flat" alt="monstrikwho" />
