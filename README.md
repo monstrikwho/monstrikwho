@@ -41,4 +41,3 @@
     </td>  
   </tr>
 </table>
-<img src="https://komarev.com/ghpvc/?username=monstrikwho&label=views&color=grey&style=flat" alt="monstrikwho" />
